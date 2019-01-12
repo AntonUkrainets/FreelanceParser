@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreelanceParser", "FreelanceParser\FreelanceParser.csproj", "{E5EB17B0-6083-4350-B049-C613705DF8FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5EB17B0-6083-4350-B049-C613705DF8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5EB17B0-6083-4350-B049-C613705DF8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5EB17B0-6083-4350-B049-C613705DF8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5EB17B0-6083-4350-B049-C613705DF8FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2D0AC03-1AB9-49B5-93C2-CFB89800B861}
+	EndGlobalSection
+EndGlobal
